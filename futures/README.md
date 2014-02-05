@@ -1,8 +1,7 @@
 # Scala Future
 
 ## Presentation
-The Lightning Talk presentation uses https://github.com/hakimel/reveal.js.
-Just open index.html in your browser to view the slides.
+http://cmacher.github.io/futures/#/
 
 ## Code
 To demonstrate Scala Futures I have used examples borrowed from Daniel Westheide's excellent blog
